@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JoyJaewon/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/JoyJaewon/LeetCode/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/JoyJaewon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JoyJaewon/LeetCode/tree/master/1127-last-stone-weight) |
 ## Prefix Sum
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/JoyJaewon/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoyJaewon/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/JoyJaewon/LeetCode/tree/master/0744-network-delay-time) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/JoyJaewon/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0286-walls-and-gates](https://github.com/JoyJaewon/LeetCode/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/JoyJaewon/LeetCode/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/JoyJaewon/LeetCode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -146,9 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/JoyJaewon/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JoyJaewon/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/JoyJaewon/LeetCode/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JoyJaewon/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JoyJaewon/LeetCode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/JoyJaewon/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
