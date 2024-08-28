@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JoyJaewon/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 | [1014-k-closest-points-to-origin](https://github.com/JoyJaewon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/JoyJaewon/LeetCode/tree/master/1127-last-stone-weight) |
 ## Two Pointers
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/JoyJaewon/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoyJaewon/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -92,12 +94,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JoyJaewon/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JoyJaewon/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JoyJaewon/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
