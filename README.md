@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JoyJaewon/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/JoyJaewon/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0128-longest-consecutive-sequence](https://github.com/JoyJaewon/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/JoyJaewon/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JoyJaewon/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JoyJaewon/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/JoyJaewon/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JoyJaewon/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/JoyJaewon/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 ## Matrix
