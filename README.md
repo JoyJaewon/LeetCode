@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JoyJaewon/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/JoyJaewon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/JoyJaewon/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JoyJaewon/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JoyJaewon/LeetCode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
