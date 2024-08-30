@@ -8,14 +8,15 @@ class Solution:
         def isInRange(r,c):
             return 0 <= r < row and 0 <= c < col
         
-        def dfs(r, c):
+        def dfs(r,c):
             if not isInRange(r,c) or visited[r][c] or grid[r][c] == '0':
                 return
             visited[r][c] = True
             for x, y in directions:
                 nx, ny = x + r, y + c
                 dfs(nx, ny)
-                
+        
+
         for r in range(row):
             for c in range(col):
                 if grid[r][c] == '1' and not visited[r][c]:
@@ -23,3 +24,4 @@ class Solution:
                     number_of_islands += 1
         
         return number_of_islands
+        
