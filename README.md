@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JoyJaewon/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JoyJaewon/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/JoyJaewon/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/JoyJaewon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/JoyJaewon/LeetCode/tree/master/0046-permutations) |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JoyJaewon/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/JoyJaewon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/JoyJaewon/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JoyJaewon/LeetCode/tree/master/0011-container-with-most-water) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
 ## Sorting
 |  |
