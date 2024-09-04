@@ -13,6 +13,7 @@ class Solution:
             while curr:
                 stack.append(curr)
                 curr = curr.left
+            
             curr = stack.pop()
             k -= 1
             if k == 0:
