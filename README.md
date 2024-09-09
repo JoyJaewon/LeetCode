@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JoyJaewon/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JoyJaewon/LeetCode/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0865-robot-room-cleaner](https://github.com/JoyJaewon/LeetCode/tree/master/0865-robot-room-cleaner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/JoyJaewon/LeetCode/tree/master/0206-reverse-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0865-robot-room-cleaner](https://github.com/JoyJaewon/LeetCode/tree/master/0865-robot-room-cleaner) |
 <!---LeetCode Topics End-->
