@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/JoyJaewon/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0286-walls-and-gates](https://github.com/JoyJaewon/LeetCode/tree/master/0286-walls-and-gates) |
+| [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JoyJaewon/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/JoyJaewon/LeetCode/tree/master/0744-network-delay-time) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JoyJaewon/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/JoyJaewon/LeetCode/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1178-valid-palindrome-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1178-valid-palindrome-iii) |
 ## Sliding Window
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/JoyJaewon/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/JoyJaewon/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JoyJaewon/LeetCode/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
