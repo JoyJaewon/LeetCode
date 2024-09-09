@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoyJaewon/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1178-valid-palindrome-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1178-valid-palindrome-iii) |
 ## Stack
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JoyJaewon/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/JoyJaewon/LeetCode/tree/master/0079-word-search) |
+| [1178-valid-palindrome-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1178-valid-palindrome-iii) |
 ## Sliding Window
 |  |
 | ------- |
