@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JoyJaewon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoyJaewon/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/JoyJaewon/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0747-min-cost-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1178-valid-palindrome-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1178-valid-palindrome-iii) |
 ## Stack
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JoyJaewon/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/JoyJaewon/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/JoyJaewon/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0468-validate-ip-address](https://github.com/JoyJaewon/LeetCode/tree/master/0468-validate-ip-address) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/JoyJaewon/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/JoyJaewon/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JoyJaewon/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/JoyJaewon/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0865-robot-room-cleaner](https://github.com/JoyJaewon/LeetCode/tree/master/0865-robot-room-cleaner) |
 ## Bit Manipulation
