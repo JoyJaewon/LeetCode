@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JoyJaewon/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/JoyJaewon/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0392-is-subsequence](https://github.com/JoyJaewon/LeetCode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1894-merge-strings-alternately](https://github.com/JoyJaewon/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoyJaewon/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/JoyJaewon/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/JoyJaewon/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1178-valid-palindrome-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1178-valid-palindrome-iii) |
 ## Stack
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JoyJaewon/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/JoyJaewon/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0392-is-subsequence](https://github.com/JoyJaewon/LeetCode/tree/master/0392-is-subsequence) |
 | [0468-validate-ip-address](https://github.com/JoyJaewon/LeetCode/tree/master/0468-validate-ip-address) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1178-valid-palindrome-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1178-valid-palindrome-iii) |
