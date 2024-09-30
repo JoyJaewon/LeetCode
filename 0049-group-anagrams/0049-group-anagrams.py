@@ -7,7 +7,6 @@ class Solution:
             count = [0] * 26
             for s in word:
                 count[ord(s) - ord('a')] += 1
-            
             ans[tuple(count)].append(word)
         
         return ans.values()
