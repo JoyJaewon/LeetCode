@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/JoyJaewon/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoyJaewon/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0490-the-maze](https://github.com/JoyJaewon/LeetCode/tree/master/0490-the-maze) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/JoyJaewon/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoyJaewon/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0490-the-maze](https://github.com/JoyJaewon/LeetCode/tree/master/0490-the-maze) |
 | [0543-diameter-of-binary-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JoyJaewon/LeetCode/tree/master/0733-flood-fill) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0286-walls-and-gates](https://github.com/JoyJaewon/LeetCode/tree/master/0286-walls-and-gates) |
 | [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0490-the-maze](https://github.com/JoyJaewon/LeetCode/tree/master/0490-the-maze) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JoyJaewon/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/JoyJaewon/LeetCode/tree/master/0744-network-delay-time) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JoyJaewon/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/JoyJaewon/LeetCode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/JoyJaewon/LeetCode/tree/master/0286-walls-and-gates) |
+| [0490-the-maze](https://github.com/JoyJaewon/LeetCode/tree/master/0490-the-maze) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JoyJaewon/LeetCode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/JoyJaewon/LeetCode/tree/master/1036-rotting-oranges) |
