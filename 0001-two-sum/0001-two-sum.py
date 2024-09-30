@@ -1,6 +1,6 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        num_dict = {} # diff, i
+        num_dict = {}
 
         for i, num in enumerate(nums):
             diff = target - num
@@ -8,5 +8,5 @@ class Solution:
                 return [i, num_dict[diff]]
             num_dict[num] = i
         
-        return False
+        return []
         
