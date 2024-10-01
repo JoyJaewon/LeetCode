@@ -2,18 +2,18 @@ class Solution:
     def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
         list1_dict = {}
         mapping = {}
-        least_index_sum = float('inf')
-
-        for i, restaurant in enumerate(list1):
-            list1_dict[restaurant] = i
+        min_index_sum = float('inf')
         
-        for i, restaurant in enumerate(list2):
-            if restaurant in list1_dict:
-                diff = abs(list1_dict[restaurant] + i)
-                least_index_sum = min(least_index_sum, diff)
-                if diff in mapping:
-                    mapping[diff].append(restaurant)
+        for i, n in enumerate(list1):
+            list1_dict[n] = i
+        
+        for i, n in enumerate(list2):
+            if n in list1_dict:
+                curr_sum = i + list1_dict[n]
+                min_index_sum = min(min_index_sum, curr_sum)
+                if curr_sum in mapping:
+                    mapping[curr_sum].append(n)
                 else:
-                    mapping[diff] = [restaurant]
+                    mapping[curr_sum] = [n]
         
-        return mapping[least_index_sum]
+        return mapping[min_index_sum]
