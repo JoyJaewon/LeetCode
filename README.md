@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1059-missing-element-in-sorted-array](https://github.com/JoyJaewon/LeetCode/tree/master/1059-missing-element-in-sorted-array) |
 | [1127-last-stone-weight](https://github.com/JoyJaewon/LeetCode/tree/master/1127-last-stone-weight) |
 | [1539-diagonal-traverse-ii](https://github.com/JoyJaewon/LeetCode/tree/master/1539-diagonal-traverse-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoyJaewon/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/JoyJaewon/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1178-valid-palindrome-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1178-valid-palindrome-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoyJaewon/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JoyJaewon/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoyJaewon/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
