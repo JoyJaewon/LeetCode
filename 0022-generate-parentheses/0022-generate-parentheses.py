@@ -1,10 +1,10 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        curr, ans = [], []
-        
+        result, curr = [], []
+
         def backtrack(openN, closedN):
             if openN == closedN == n:
-                ans.append(''.join(curr))
+                result.append(''.join(curr))
                 return
             
             if openN < n:
@@ -16,7 +16,7 @@ class Solution:
                 curr.append(')')
                 backtrack(openN, closedN + 1)
                 curr.pop()
- 
+        
         backtrack(0, 0)
-        return ans
+        return result
         
