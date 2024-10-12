@@ -9,9 +9,8 @@ class Solution:
                 left += 1
                 left_max = max(left_max, height[left])
                 water += left_max - height[left]
-            
             else:
-                right -= 1
+                right-= 1
                 right_max = max(right_max, height[right])
                 water += right_max - height[right]
         
