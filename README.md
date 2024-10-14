@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoyJaewon/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoyJaewon/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0490-the-maze](https://github.com/JoyJaewon/LeetCode/tree/master/0490-the-maze) |
 | [0543-diameter-of-binary-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JoyJaewon/LeetCode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/JoyJaewon/LeetCode/tree/master/0744-network-delay-time) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JoyJaewon/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -365,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoyJaewon/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/JoyJaewon/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
