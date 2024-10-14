@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/JoyJaewon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/JoyJaewon/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/JoyJaewon/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/JoyJaewon/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JoyJaewon/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JoyJaewon/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JoyJaewon/LeetCode/tree/master/0078-subsets) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JoyJaewon/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/JoyJaewon/LeetCode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/JoyJaewon/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Sorting
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/JoyJaewon/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/JoyJaewon/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JoyJaewon/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/JoyJaewon/LeetCode/tree/master/0131-palindrome-partitioning) |
