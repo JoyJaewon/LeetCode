@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoyJaewon/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0490-the-maze](https://github.com/JoyJaewon/LeetCode/tree/master/0490-the-maze) |
+| [0539-minimum-time-difference](https://github.com/JoyJaewon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JoyJaewon/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/JoyJaewon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/JoyJaewon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1539-diagonal-traverse-ii](https://github.com/JoyJaewon/LeetCode/tree/master/1539-diagonal-traverse-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoyJaewon/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoyJaewon/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0539-minimum-time-difference](https://github.com/JoyJaewon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1014-k-closest-points-to-origin](https://github.com/JoyJaewon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/JoyJaewon/LeetCode/tree/master/0392-is-subsequence) |
 | [0468-validate-ip-address](https://github.com/JoyJaewon/LeetCode/tree/master/0468-validate-ip-address) |
+| [0539-minimum-time-difference](https://github.com/JoyJaewon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/JoyJaewon/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1178-valid-palindrome-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1178-valid-palindrome-iii) |
