@@ -1,7 +1,7 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        max_profit = float('-inf')
-        min_price = prices[0]
+        min_price = float('inf')
+        max_profit = 0
 
         for price in prices:
             if price < min_price:
@@ -9,4 +9,5 @@ class Solution:
             max_profit = max(max_profit, price - min_price)
         
         return max_profit
+
         
