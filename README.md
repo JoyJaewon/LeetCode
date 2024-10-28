@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/JoyJaewon/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JoyJaewon/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/JoyJaewon/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/JoyJaewon/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoyJaewon/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoyJaewon/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/JoyJaewon/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/JoyJaewon/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/JoyJaewon/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/JoyJaewon/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/JoyJaewon/LeetCode/tree/master/0301-remove-invalid-parentheses) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JoyJaewon/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/JoyJaewon/LeetCode/tree/master/0078-subsets) |
 ## Memoization
 |  |
@@ -399,5 +402,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JoyJaewon/LeetCode/tree/master/0067-add-binary) |
 | [3311-ant-on-the-boundary](https://github.com/JoyJaewon/LeetCode/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
