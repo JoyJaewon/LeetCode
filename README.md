@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/JoyJaewon/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JoyJaewon/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1002-maximum-width-ramp](https://github.com/JoyJaewon/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/JoyJaewon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/JoyJaewon/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -289,12 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoyJaewon/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/JoyJaewon/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/JoyJaewon/LeetCode/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/JoyJaewon/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/JoyJaewon/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JoyJaewon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/JoyJaewon/LeetCode/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/JoyJaewon/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Design
 |  |
 | ------- |
