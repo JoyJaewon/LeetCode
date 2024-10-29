@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/JoyJaewon/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0490-the-maze](https://github.com/JoyJaewon/LeetCode/tree/master/0490-the-maze) |
 | [0539-minimum-time-difference](https://github.com/JoyJaewon/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/JoyJaewon/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/JoyJaewon/LeetCode/tree/master/0695-max-area-of-island) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/JoyJaewon/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/JoyJaewon/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3311-ant-on-the-boundary](https://github.com/JoyJaewon/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoyJaewon/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/JoyJaewon/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/JoyJaewon/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/JoyJaewon/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JoyJaewon/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
