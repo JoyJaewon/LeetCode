@@ -8,7 +8,8 @@ class Solution:
         if not head:
             return None
         
-        curr, prev = head, None
+        curr = head
+        prev = None
 
         while curr:
             temp = curr.next
@@ -17,4 +18,5 @@ class Solution:
             curr = temp
         
         return prev
+            
         
