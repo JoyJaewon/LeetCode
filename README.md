@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JoyJaewon/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/JoyJaewon/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JoyJaewon/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/JoyJaewon/LeetCode/tree/master/0217-contains-duplicate) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0286-walls-and-gates](https://github.com/JoyJaewon/LeetCode/tree/master/0286-walls-and-gates) |
 | [0334-increasing-triplet-subsequence](https://github.com/JoyJaewon/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/JoyJaewon/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JoyJaewon/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JoyJaewon/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/JoyJaewon/LeetCode/tree/master/0217-contains-duplicate) |
 | [0253-meeting-rooms-ii](https://github.com/JoyJaewon/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/JoyJaewon/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/JoyJaewon/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/JoyJaewon/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JoyJaewon/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/JoyJaewon/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JoyJaewon/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/JoyJaewon/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
