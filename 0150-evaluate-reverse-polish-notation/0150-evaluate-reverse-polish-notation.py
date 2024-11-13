@@ -3,22 +3,18 @@ class Solution:
         stack = []
 
         for token in tokens:
-            if token in '+-*/':
+            if token in "+-/*":
                 num2 = stack.pop()
                 num1 = stack.pop()
-
                 if token == '+':
                     stack.append(num1 + num2)
-                elif token == '-':
+                elif token == "-":
                     stack.append(num1 - num2)
-                elif token == '*':
+                elif token == "*":
                     stack.append(num1 * num2)
                 else:
                     stack.append(int(num1/num2))
-
             else:
                 stack.append(int(token))
         
         return stack[-1]
-                
-        
