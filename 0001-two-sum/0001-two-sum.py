@@ -6,6 +6,7 @@ class Solution:
             diff = target - num
             if diff in num_dict:
                 return [i, num_dict[diff]]
+            
             num_dict[num] = i
         
         return []
