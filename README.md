@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/JoyJaewon/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/JoyJaewon/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JoyJaewon/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0883-car-fleet](https://github.com/JoyJaewon/LeetCode/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/JoyJaewon/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/JoyJaewon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/JoyJaewon/LeetCode/tree/master/1036-rotting-oranges) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/JoyJaewon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0883-car-fleet](https://github.com/JoyJaewon/LeetCode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/JoyJaewon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1539-diagonal-traverse-ii](https://github.com/JoyJaewon/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [3321-type-of-triangle](https://github.com/JoyJaewon/LeetCode/tree/master/3321-type-of-triangle) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/JoyJaewon/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/JoyJaewon/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/JoyJaewon/LeetCode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/JoyJaewon/LeetCode/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/JoyJaewon/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/JoyJaewon/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JoyJaewon/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/JoyJaewon/LeetCode/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/JoyJaewon/LeetCode/tree/master/0883-car-fleet) |
 | [1002-maximum-width-ramp](https://github.com/JoyJaewon/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Design
 |  |
