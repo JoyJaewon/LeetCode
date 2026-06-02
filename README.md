@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/JoyJaewon/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3311-ant-on-the-boundary](https://github.com/JoyJaewon/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/JoyJaewon/LeetCode/tree/master/3321-type-of-triangle) |
+| [3842-toggle-light-bulbs](https://github.com/JoyJaewon/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/JoyJaewon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1539-diagonal-traverse-ii](https://github.com/JoyJaewon/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [3321-type-of-triangle](https://github.com/JoyJaewon/LeetCode/tree/master/3321-type-of-triangle) |
+| [3842-toggle-light-bulbs](https://github.com/JoyJaewon/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/JoyJaewon/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JoyJaewon/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3842-toggle-light-bulbs](https://github.com/JoyJaewon/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/JoyJaewon/LeetCode/tree/master/0067-add-binary) |
 | [3311-ant-on-the-boundary](https://github.com/JoyJaewon/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3842-toggle-light-bulbs](https://github.com/JoyJaewon/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Merge Sort
 |  |
 | ------- |
