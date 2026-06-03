@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/JoyJaewon/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/JoyJaewon/LeetCode/tree/master/3321-type-of-triangle) |
 | [3842-toggle-light-bulbs](https://github.com/JoyJaewon/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/JoyJaewon/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JoyJaewon/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3842-toggle-light-bulbs](https://github.com/JoyJaewon/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/JoyJaewon/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JoyJaewon/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/JoyJaewon/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Math
 |  |
 | ------- |
