@@ -27,7 +27,6 @@ class Solution:
             if capacity[i] >= itemSize and capacity[i] < val:
                 val = capacity[i]
                 index = i
-        if val == float('inf'):
-            return -1
+
         return index
         
