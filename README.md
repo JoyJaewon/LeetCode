@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/JoyJaewon/LeetCode/tree/master/3321-type-of-triangle) |
 | [3842-toggle-light-bulbs](https://github.com/JoyJaewon/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/JoyJaewon/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [3861-minimum-capacity-box](https://github.com/JoyJaewon/LeetCode/tree/master/3861-minimum-capacity-box) |
 ## Two Pointers
 |  |
 | ------- |
