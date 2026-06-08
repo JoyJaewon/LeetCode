@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/JoyJaewon/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3311-ant-on-the-boundary](https://github.com/JoyJaewon/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/JoyJaewon/LeetCode/tree/master/3321-type-of-triangle) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/JoyJaewon/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3842-toggle-light-bulbs](https://github.com/JoyJaewon/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/JoyJaewon/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3861-minimum-capacity-box](https://github.com/JoyJaewon/LeetCode/tree/master/3861-minimum-capacity-box) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/JoyJaewon/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JoyJaewon/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/JoyJaewon/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3842-toggle-light-bulbs](https://github.com/JoyJaewon/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/JoyJaewon/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Bucket Sort
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JoyJaewon/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JoyJaewon/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/JoyJaewon/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/JoyJaewon/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Math
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/JoyJaewon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1014-k-closest-points-to-origin](https://github.com/JoyJaewon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3321-type-of-triangle](https://github.com/JoyJaewon/LeetCode/tree/master/3321-type-of-triangle) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/JoyJaewon/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Geometry
 |  |
 | ------- |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/JoyJaewon/LeetCode/tree/master/0204-count-primes) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/JoyJaewon/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Radix Sort
 |  |
 | ------- |
