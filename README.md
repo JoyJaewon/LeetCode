@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/JoyJaewon/LeetCode/tree/master/1539-diagonal-traverse-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JoyJaewon/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/JoyJaewon/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JoyJaewon/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3311-ant-on-the-boundary](https://github.com/JoyJaewon/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/JoyJaewon/LeetCode/tree/master/3321-type-of-triangle) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/JoyJaewon/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JoyJaewon/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1178-valid-palindrome-iii](https://github.com/JoyJaewon/LeetCode/tree/master/1178-valid-palindrome-iii) |
 | [1894-merge-strings-alternately](https://github.com/JoyJaewon/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JoyJaewon/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JoyJaewon/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3856-trim-trailing-vowels](https://github.com/JoyJaewon/LeetCode/tree/master/3856-trim-trailing-vowels) |
 ## Sliding Window
